@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://maize-passenger-845.notion.site/88f80da62cd449e5a28a1b3a69c3112c?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://coding-l7.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=orange"/></a>
+<a href="https://coding-l7.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-blue?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdmstn&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrdmstn&layout=compact)
