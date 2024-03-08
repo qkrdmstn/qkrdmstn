@@ -2,7 +2,7 @@
 <a href=https://maize-passenger-845.notion.site/88f80da62cd449e5a28a1b3a69c3112c?pvs=4 target="_blank"><img src="https://img.shields.io/badge/#000000-000000?style=plastic&logo=appveyor&logoColor=000000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdmstn&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrdmstn&layout=compact)
 <!--
 **qkrdmstn/qkrdmstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
