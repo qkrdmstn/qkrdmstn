@@ -4,7 +4,7 @@
 
 ### 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 
 ### 📈 Git Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdmstn&show_icons=true&theme=default)
