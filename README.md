@@ -3,7 +3,7 @@
 <a href="https://coding-l7.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-orange?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ### 🛠 Tech Stack 🛠
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=5586A4"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
 
 ### 📈 Git Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdmstn&show_icons=true&theme=default)
