@@ -5,6 +5,8 @@
 ## 📈 Git Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrdmstn&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrdmstn&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrdmstn1014)](https://solved.ac/qkrdmstn1014/)
+
 <!--
 **qkrdmstn/qkrdmstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
